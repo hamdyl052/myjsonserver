@@ -1,0 +1,9 @@
+{
+    "states": [
+      { "id": "alabama", "name": "Alabama", "code": "AL" },
+      { "id": "alaska", "name": "Alaska", "code": "AK"}
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
